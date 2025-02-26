@@ -1,6 +1,6 @@
 # Ticket To Ride Score Tracker
 
-This is jump a simple IOS app that keeps track of your score in the board game Ticket to Ride
+This is just a simple IOS app that keeps track of your score in the board game Ticket to Ride
 
 That is all
 
